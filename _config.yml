@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ����ĸ���վ
-subtitle: ''
-description: ''
+title: 泽军的个人站
+subtitle: 泽军的个人站
+description: 个人技术博客
 keywords:
-author: ����ĸ���վ
-language: ch
+author: 泽军的个人站
+language: zh-CN
 timezone: ''
 
 # URL
@@ -104,5 +104,5 @@ theme: yilia
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/HenghuiDz/HenghuiDz.github.io.git
+  repo: git@github.com:HenghuiDz/HenghuiDz.github.io.git
   branch: master

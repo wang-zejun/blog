@@ -1,4 +1,4 @@
-hexo-theme-yilia
+﻿hexo-theme-yilia
 ================
 
 Yilia 是为 [hexo](https://github.com/tommy351/hexo) 2.4+制作的主题。
@@ -17,7 +17,7 @@ Yilia 是为 [hexo](https://github.com/tommy351/hexo) 2.4+制作的主题。
 3. 希望把加载速度做到极致（努力中）    
 4. 让大家把注意力放到内容上。这是本主题设计初衷      
 5. 主题不支持IE6，7，8。以后也不会     
-
+<!-- more -->
 **近期更新（2017.07.09）：**
 
 2017.07.09

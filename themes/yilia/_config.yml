@@ -1,25 +1,24 @@
-﻿Header:
-  泽军的个人站
+﻿# Header
+
 
 menu:
   主页: /
-  随笔: /tags/随笔/
-  aboutme: '关于我'
+  # 随笔: /tags/随笔/
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
-  qq: "#"
+  github: "https://github.com/HenghuiDz"
+  #weibo: "#"
+  #rss: "#"
+  #zhihu: "#"
+  3qq: "#"
   #weixin: "#"
   #jianshu: "#"
   #douban: "#"
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
+  #mail: ""
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -45,7 +44,7 @@ open_in_new: false
 
 # 打赏
 # 打赏type设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
-reward_type: 2
+reward_type: 1
 # 打赏wording
 reward_wording: '谢谢你请我吃糖果'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
@@ -119,7 +118,7 @@ slider:
 smart_menu:
   innerArchive: '所有文章'
   friends: '友链'
-  # aboutme: '关于我'
+  aboutme: '关于我'
 
 friends:
   友情链接1: https://jkarm.wang/
@@ -129,4 +128,4 @@ friends:
   友情链接5: https://jkarm.wang/
   友情链接6: https://jkarm.wang/
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: Mr.Wang <br>就职于***<br><br>热爱电子,是一名嵌入式工程师

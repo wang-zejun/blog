@@ -93,8 +93,9 @@ exclude_generator:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:wang-zejun/blog.git
-  branch: master
+  repo:
+    github: git@github.com:wang-zejun/blog.git,master
+    coding: git@e.coding.net:zejun_wang/myblog/blog.git,master 
 
 jsonContent:
   meta: false

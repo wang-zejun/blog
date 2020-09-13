@@ -60,7 +60,7 @@ open_in_new: true
 # Miscellaneous
 baidu_analytics: 'a30844fa2bcbce0a9e001fe06cefeddf'
 google_analytics: false
-favicon: /img/favicon.ico
+favicon: /assets/img/favicon.ico
 
 #你的头像url
 avatar: /assets/img/avatar.jpg

@@ -19,7 +19,7 @@ function init() {
 		})
 	}
 	// 目录序号
-	if (yiliaConfig && yiliaConfig.toc_hide_index) {
+	if (yiliaConfig && yiliaConfig.open_in_new) {
 		let $a = document.querySelectorAll(('.toc-number'))
 		$a.forEach(($em) => {
 			$em.style.display = 'none';
@@ -31,7 +31,6 @@ function init() {
 	if ($aboutme && $aboutme.length !== 0) {
 		$aboutme.innerHTML = $aboutme.innerText
 	}
-	
 }
 
 module.exports = {

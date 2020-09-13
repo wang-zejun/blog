@@ -4,15 +4,15 @@
 
 # Site
 title: 王泽军的个人博客
-subtitle: Do one thing at a time, and do well.
+subtitle: 朋友不多，认识的人少
 description: 嵌入式工程师
-author: Mr.Wang
+author: 泽军的个人站
 email: 75234111@qq.com
 keywords: "嵌入式，单片机，STM32，PCB"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://jkarm.com
+url: http://jkarm.wang/
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
